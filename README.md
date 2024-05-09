@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhua3pidHJ1cWU1Z282ZDFxZWk2dnM2d3NhY3h1Yjhka3NsY3FmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
 </div>
 
 ###
@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="center">My Stats 💹</h2>
+<h3 align="center">My Stats 💹</h3>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h2 align="left">My Tech</h2>
+<h3 align="center">My Tech</h3>
 
 ###
 
@@ -61,7 +61,24 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JorgenDIF/JorgenDIF/output/snake.svg" alt="Snake animation" />
+<h3 align="left">Social Media</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jorgenjonsson1980/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://www.youtube.com/channel/UCDlFu7hMKTN34mDekj_QGYg" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+</div>
+
+###
+
+<h3 align="center">My 5 last played songs</h3>
 
 ###
 
