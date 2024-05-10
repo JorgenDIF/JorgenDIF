@@ -12,11 +12,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="right">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since: 2023<br>📚 I'm currently learning: React<br>🎯 Goals: Become better and better<br>🎲 Fun fact: I love to create music</p>
+<p align="right">✨ Creating bugs since: 2023<br>📚 I'm currently learning: React<br>🎯 Goals: Become better and better<br>🎲 Fun fact: I love to create music</p>
 
 ###
 
