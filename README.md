@@ -78,11 +78,11 @@
 
 ###
 
-<h3 align="left">My 5 last played songs</h3>
+<h3 align="right">My 5 last played songs</h3>
 
 ###
 
-<div align="center">
+<div align="right">
   <a href="https://open.spotify.com/user/jorgendif">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=jorgendif&count=5" alt="Spotify recently played"  />
   </a>
