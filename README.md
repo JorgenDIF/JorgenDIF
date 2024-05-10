@@ -78,7 +78,7 @@
 
 ###
 
-<h3 align="center">My 5 last played songs</h3>
+<h3 align="left">My 5 last played songs</h3>
 
 ###
 
