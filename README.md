@@ -1,4 +1,4 @@
-<h1 align="left">Jörgen Jonsson🗒️</h1>
+<h1 align="left">Jörgen Jonsson</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="right">About me</h2>
+<h2 align="right">About me 🗒️</h2>
 
 ###
 
