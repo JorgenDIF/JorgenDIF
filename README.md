@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">My Stats 💹</h3>
+<h2 align="left">My Stats 💹</h2>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="left">My Tech 💻</h3>
+<h2 align="left">My Tech 💻</h2>
 
 ###
 
@@ -61,7 +61,7 @@
 
 ###
 
-<h3 align="left">Social Media 📱</h3>
+<h2 align="left">Social Media 📱</h2>
 
 ###
 
@@ -78,7 +78,7 @@
 
 ###
 
-<h3 align="right">My 5 last played songs 🎵</h3>
+<h2 align="right">My 5 last played songs 🎵</h2>
 
 ###
 
